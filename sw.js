@@ -1,5 +1,5 @@
 const CACHE_NAME = 'printy-cache-v1';
-const CORE_ASSETS = ['./index.html', './manifest.json', './icon-192.png', './icon-512.png'];
+const CORE_ASSETS = ['./index.html', './manifest.json', './1788540620065.png', './1788540620065.png'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
